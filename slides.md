@@ -36,8 +36,8 @@ css: unocss
 - FE勉強会やってます！（火曜の12時~13時）
 
 <div style="display: flex; gap: 100px">
-<img src="workroom.jpg" alt="" width="300">
-<img src="workroom2.jpg" alt="" width="300">
+<img src="/workroom.jpg" alt="" width="300">
+<img src="/workroom2.jpg" alt="" width="300">
 </div>
 
 ---
@@ -176,7 +176,7 @@ article {
 
 直接の親要素の幅によって見た目を調節できる
 
-<img src="container_example.png" alt="" style="height: 350px" />
+<img src="/container_example.png" alt="" style="height: 350px" />
 
 出典: https://ishadeed.com/article/say-hello-to-css-container-queries/
 
@@ -252,7 +252,7 @@ article {
 幅が狭ければボタンのみ、広ければページ数も表示など
 
 <div style="display: flex; justify-content: space-between">
-<img src="pagination.png" alt="" style="width: 480px; height: 300px" />
+<img src="/pagination.png" alt="" style="width: 480px; height: 300px" />
 
 <div style="height: 320px; width: 300px; overflow: scroll">
 ```css
@@ -298,7 +298,7 @@ article {
 プロフィールのカード
 
 <div style="display: flex; justify-content: space-between">
-<img src="profile.png" alt="" style="width: 540px; height: 200px" />
+<img src="/profile.png" alt="" style="width: 540px; height: 200px" />
 
 <div style="height: 320px; width: 300px; overflow: scroll">
 ```css
